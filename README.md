@@ -1,4 +1,4 @@
-# Flask + Postgres Docker Demo
+# Flask Postgres Docker Demo
 
 Учебный проект: Flask-приложение с базой Postgres, запускается через Docker Compose.
 
