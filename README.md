@@ -12,3 +12,6 @@
 docker compose up -d --build
 
 Приложение будет доступно на http://localhost:5001
+
+## License
+MIT
